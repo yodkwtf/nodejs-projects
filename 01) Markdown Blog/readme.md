@@ -1,6 +1,6 @@
 ## Markdown Blog
 
-A blogging app that takes markdown text as input and converts them into HTML blog pages. The blogs are saved in the databases so they are always accessible. They can also be edit and deleted.
+A blogging app that takes markdown text as input and converts them into HTML blog posts. The blogs are saved in the database so they are always accessible. They can also be edit and deleted. The app is styled using bootstrap v5.
 
 ## Live Preview
 
